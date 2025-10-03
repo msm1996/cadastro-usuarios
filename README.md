@@ -32,7 +32,10 @@ O objetivo é permitir o cadastro, listagem, atualização e exclusão de usuár
   <br>
 ✅ Comunicação entre Frontend e Backend via API REST<h2/>
 <br>
-<h1>Imagem do Projeto:</h1>
+<h1> 📸 Imagem do Projeto:</h1>
+<img src = "https://github.com/msm1996/cadastro-usuarios/blob/main/src/assets/Captura%20de%20tela%202025-10-02%20202622.png?raw=true">
+
+ <a>✍ Feito por [Myke Santana Martins:](https://www.linkedin.com/in/myke-santana-martins)<a/>
 
  
 
